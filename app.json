@@ -37,6 +37,19 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "19d8b948-ba54-444a-a00c-e158e8664c05"
+      }
+    },
+    "owner": "csshubham",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/19d8b948-ba54-444a-a00c-e158e8664c05"
     }
   }
 }
